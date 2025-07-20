@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @Angelica-Novify
-- 👀 I’m interested in cyberpsychology, Podcasts, cyber events, cybercrime, forensics
-- 🌱 I’m currently learning cyberpsychology
-- 💞️ I’m looking to collaborate with cybersecurity start-ups to build their Product & GTM teams & experts to talk about all things cyber, start-ups, cyberpsychology
-- 📫 How to reach me: angelica@novify.xyz
-- ⚡ Fun fact: Yogi, Runner, Golfer 
+🧠 Hi, I’m @Angelica-Novify
+👋 Founder of Novify.xyz — a crypto-native talent partner building Product & GTM teams across crypto and security startups.
+🛠️ Currently launching VeriLayer, a Chrome Extension to verify technical talent across Web2 & Web3 ecosystems.
+🎙️ Exploring a podcast on cyberpsychology, founder journeys, and the future of identity and work.
+🤝 Open to collaborating with crypto infra projects, recruitment agencies, and CRMs.
+📫 Reach me at: angelica@novify.xyz
+⚡ Fun fact: Cyberpsychologist, Golfer, Runner.
 
 <!---
 Angelica-Novify/Angelica-Novify is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
